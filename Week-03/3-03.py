@@ -49,7 +49,7 @@ For example:
 
 Input          	Result
 
-500	            1035.00
+500	          1035.00
 
 
 
