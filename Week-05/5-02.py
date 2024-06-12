@@ -56,9 +56,9 @@ Output
 
 For example:
 
-Input	Result
+Input	       Result
 
-1
+1              1
 
 3 
 
@@ -70,9 +70,9 @@ Input	Result
 
 4
 
-	1
+	
 
-1
+1             0
 
 3 
 
@@ -84,9 +84,9 @@ Input	Result
 
 99
 
-	0
+	
 
-
+Coding:
 
 a=int(input())
 
