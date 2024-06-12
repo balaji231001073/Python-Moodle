@@ -8,20 +8,22 @@ Use ASCII values of C and D.
 
 Input Format:
 
-An integer x, 0<=x<=1. .
+An integer x, 0<=x<=1. 
+    
 
 Output Format:
 
 output a single character "C" or "D"depending on the value of x.
 
+
 Input 1:
 
 0
 
+
 Output 1:
 
 C
-
 
 
 Input 2:
@@ -29,12 +31,14 @@ Input 2:
 1
 
 
-
 Output 1:
 
 D
 
 
+
+
+Coding: 
 
 a=int(input())
 
